@@ -1,0 +1,9 @@
+# File for 2021/08/26
+# Student File
+rno,name,std,subject,marks
+1,bill,4,english,65
+1,bill,4,maths,62
+2,mike,5,english,32
+2,mike,5,maths,not available
+3,karen,4,english,72
+3,karen,4,n.a.,n.a.
